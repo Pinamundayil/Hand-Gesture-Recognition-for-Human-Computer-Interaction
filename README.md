@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-for-Human-Computer-Interaction
+This project utilizes computer vision techniques to recognize and interpret hand gestures, allowing for a more intuitive and natural way of interacting with computers. The project includes a Jupyter notebook that contains the code for detecting and tracking hand landmarks using the MediaPipe Hands library and OpenCV. The system can recognize various hand gestures, such as clicks, swipes, and pinches, and translate them into corresponding computer commands.
